@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Arjun 👋</h1>
 
 <p align="center">
@@ -48,16 +47,13 @@ Exploring   LLM fine-tuning · Vector DBs · Agents
 
 ---
 
-### GitHub Stats
+### Contributions
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=Arjun-3105&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-3105&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arjun-3105&theme=tokyonight&hide_border=true"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arjun-3105/Arjun-3105/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arjun-3105/Arjun-3105/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Arjun-3105/Arjun-3105/output/github-snake.svg"/>
+</picture>
 
 ---
 
