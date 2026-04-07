@@ -27,11 +27,11 @@ A block editor with an AI tutor panel baked in. You write, it understands, you a
 **🤟 [Sign Language Detection](https://github.com/Arjun-3105/AI-project_Sign-language-detection)**
 Real-time hand gesture → text via webcam. Trained my own model, built a web server on top. The kind of project that reminds you why you got into AI in the first place.
 
-**🎓 [AI Tutor — Streamlit](https://github.com/Arjun-3105/ai-tutor-streamlit)**
-Upload your material, ask questions, get answers grounded in *your* content — not the internet. RAG done simply.
+**🎓 [Github Profile Analyzer]([https://github.com/Arjun-3105/githubProfileAnalyzer])**
+Get recruiter level of your profile
 
-**🔐 [Image Steganography](https://github.com/Arjun-3105/ImageSteganography)**
-Hiding messages inside images and audio using LSB bit manipulation in Java. Secrets in plain sight.
+**🔐 [Legal Assitant](https://github.com/Arjun-3105/legalAssistant)**
+RAG powered legal docs summarizer
 
 ---
 
