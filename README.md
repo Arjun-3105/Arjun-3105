@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR@EMAIL.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/0xarjun1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="mailto:YOUR@EMAIL.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> -->
   <a href="https://ai-note-taket-tutor.vercel.app"><img src="https://img.shields.io/badge/Live_Project-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=Arjun-3105&style=flat-square&color=6E40C9&label=visitors"/>
 </p>
