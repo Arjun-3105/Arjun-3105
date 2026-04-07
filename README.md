@@ -27,7 +27,7 @@ A block editor with an AI tutor panel baked in. You write, it understands, you a
 **🤟 [Sign Language Detection](https://github.com/Arjun-3105/AI-project_Sign-language-detection)**
 Real-time hand gesture → text via webcam. Trained my own model, built a web server on top. The kind of project that reminds you why you got into AI in the first place.
 
-**🎓 [Github Profile Analyzer]([https://github.com/Arjun-3105/githubProfileAnalyzer])**
+**🎓 [Github Profile Analyzer](https://github.com/Arjun-3105/githubProfileAnalyzer)**
 Get recruiter level of your profile
 
 **🔐 [Legal Assitant](https://github.com/Arjun-3105/legalAssistant)**
