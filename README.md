@@ -21,9 +21,8 @@ Currently going deep on RAG pipelines and chasing a Summer 2026 internship where
 
 ### Things I've built
 
-**📝 [AI Note-Taker & Tutor](https://github.com/Arjun-3105/AI-noteTaket-tutor)** · [live demo →](https://ai-note-taket-tutor.vercel.app)
-A block editor with an AI tutor panel baked in. You write, it understands, you ask questions, it explains — all without leaving the page. Built with React 19, TypeScript, Tiptap, and OpenRouter. My most complete project end-to-end.
-
+**📝 [NoteStamp - Learning Passport](https://github.com/Arjun-3105/noteStamp-waitlist)** · [live demo →]([https://ai-note-taket-tutor.vercel.app](https://note-stamp-waitlist.vercel.app/))
+Notestamp is a persistent multi-source learning workspace. It features unified context-aware AI assistants (voice + text), customized study roadmaps, adaptive quizzes, and verifiable blockchain-backed skill credentials.
 **🤟 [Sign Language Detection](https://github.com/Arjun-3105/AI-project_Sign-language-detection)**
 Real-time hand gesture → text via webcam. Trained my own model, built a web server on top. The kind of project that reminds you why you got into AI in the first place.
 
