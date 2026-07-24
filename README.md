@@ -58,5 +58,5 @@ Exploring   LLM fine-tuning · Vector DBs · Agents
 
 <p align="center">
   <i>Always happy to chat about AI, what you're building, or internship opportunities.</i><br/>
-  <a href="mailto:YOUR@EMAIL.com">Reach out →</a>
+  <a href="mailto:arjun.chaudhary3105@gmail.com">Reach out →</a>
 </p>
