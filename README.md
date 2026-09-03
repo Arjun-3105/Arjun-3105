@@ -18,25 +18,6 @@ I'm a final year CS student who gets unreasonably excited about making machines 
 Currently going deep on RAG pipelines and chasing a Summer 2026 internship where I can do more of this full-time.
 
 ---
-
-### Things I've built
-
-** [NoteStamp - Learning Passport](https://github.com/Arjun-3105/noteStamp-waitlist)** · [live demo](https://note-stamp-waitlist.vercel.app/)
-AI Study Workspace + Learning Passport
-
-** [Sign Language Detection](https://github.com/Arjun-3105/AI-project_Sign-language-detection)**
-Real-time hand gesture → text via webcam. Trained my own model, built a web server on top. The kind of project that reminds you why you got into AI in the first place.
-
-** [Github Profile Analyzer](https://github.com/Arjun-3105/githubProfileAnalyzer)**
-Get recruiter level of your profile
-
-** [Legal Assitant](https://github.com/Arjun-3105/legalAssistant)**
-RAG powered legal docs summarizer
-
-** [LYNX](https://github.com/Arjun-3105/lynx)**
-Intelligent, context-aware system automation engine built for Ubuntu (Wayland / GNOME)
----
-
 ### Stack
 
 ```
