@@ -22,7 +22,8 @@ Currently going deep on RAG pipelines and chasing a Summer 2026 internship where
 ### Things I've built
 
 ** [NoteStamp - Learning Passport](https://github.com/Arjun-3105/noteStamp-waitlist)** · [live demo](https://note-stamp-waitlist.vercel.app/)
-Notestamp is a persistent multi-source learning workspace. It features unified context-aware AI assistants (voice + text), customized study roadmaps, adaptive quizzes, and verifiable blockchain-backed skill credentials.
+AI Study Workspace + Learning Passport
+
 ** [Sign Language Detection](https://github.com/Arjun-3105/AI-project_Sign-language-detection)**
 Real-time hand gesture → text via webcam. Trained my own model, built a web server on top. The kind of project that reminds you why you got into AI in the first place.
 
